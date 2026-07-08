@@ -17,11 +17,18 @@
       </fileDesc>
       <encodingDesc xml:id="eh7ebg01">
          <appInfo xml:id="a3tff0c1">
-            <application xml:id="a03mgbf" enddate="2025-06-06T13:06:55" startdate="2024-08-01T10:49:53" version="1.2.6">
+            <application xml:id="a03mgbf" enddate="2026-07-08T18:30:16" startdate="2024-08-01T10:49:53" version="1.4.1">
                <name xml:id="nbtjpo81">mei-friend</name>
                <p xml:id="p24vfb71">First edit by mei-friend 1.1.5, 14 May 2024.</p>
             </application>
-         <application startdate="2026-04-20" enddate="2026-07-03"><name>GitHub Action Scripts</name><p>Add system breaks</p><p>Add system beginnings</p><p>Add system beginnings</p><p>Add system beginnings</p></application></appInfo>
+            <application startdate="2026-04-20" enddate="2026-07-03">
+               <name>GitHub Action Scripts</name>
+               <p>Add system breaks</p>
+               <p>Add system beginnings</p>
+               <p>Add system beginnings</p>
+               <p>Add system beginnings</p>
+            </application>
+         </appInfo>
       </encodingDesc>
    </meiHead>
    <music xml:id="mm9bgqh1">
@@ -110,7 +117,6 @@
                      </staff>
                      <dynam xml:id="d6iolw9" label="p" startid="#n1rjzmja">p</dynam>
                      <slur xml:id="su279fs" endid="#n1dnbrb8" startid="#n1rjzmja"/>
-                     <slur xml:id="s9xd78e" endid="#n1d6f7mf" startid="#nc35f0i"/>
                      <tie xml:id="t1gbsvli" endid="#n1r17she" startid="#nu7kj5d"/>
                      <dynam xml:id="d1i11tv7" label="p" startid="#c1elbu9q">p</dynam>
                      <tie xml:id="t1tjolge" endid="#n17cvxw6" startid="#nir2ptj"/>
