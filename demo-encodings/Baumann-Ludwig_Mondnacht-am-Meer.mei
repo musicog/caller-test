@@ -17,7 +17,7 @@
       </fileDesc>
       <encodingDesc xml:id="eh7ebg01">
          <appInfo xml:id="a3tff0c1">
-            <application xml:id="a03mgbf" enddate="2026-07-08T18:30:16" startdate="2024-08-01T10:49:53" version="1.4.1">
+            <application xml:id="a03mgbf" enddate="2026-07-08T18:30:43" startdate="2024-08-01T10:49:53" version="1.4.1">
                <name xml:id="nbtjpo81">mei-friend</name>
                <p xml:id="p24vfb71">First edit by mei-friend 1.1.5, 14 May 2024.</p>
             </application>
@@ -73,15 +73,13 @@
                      </staff>
                      <staff xml:id="m1s2" n="2">
                         <layer xml:id="m1s2l1" n="1">
-                           <beam xml:id="b0aj44f">
-                              <note xml:id="n1rjzmja" dur="8" oct="4" pname="g">
-                                 <accid xml:id="aumny1r1" accid.ges="s"/>
-                              </note>
-                              <note xml:id="n1dnbrb8" dur="8" oct="4" pname="b"/>
-                              <note xml:id="n5wq0db" dur="8" oct="4" pname="f">
-                                 <accid xml:id="ak9pbxx1" accid.ges="s"/>
-                              </note>
-                           </beam>
+                           <note xml:id="n1rjzmja" dur="8" oct="4" pname="g">
+                              <accid xml:id="aumny1r1" accid.ges="s"/>
+                           </note>
+                           <note xml:id="n1dnbrb8" dur="8" oct="4" pname="b"/>
+                           <note xml:id="n5wq0db" dur="8" oct="4" pname="f">
+                              <accid xml:id="ak9pbxx1" accid.ges="s"/>
+                           </note>
                            <note xml:id="nc35f0i" dur="4" oct="4" pname="e"/>
                            <note xml:id="n1yr73h0" dur="8" oct="3" pname="b"/>
                            <note xml:id="ng791c8" dur="4" oct="4" pname="e"/>
